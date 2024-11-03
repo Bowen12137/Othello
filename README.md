@@ -1,4 +1,4 @@
-```markdown
+
 # Othello Game
 
 This project is a Java implementation of the classic board game **Othello**. The game supports a human vs. computer mode, where players can take turns placing pieces on the board to capture the opponent's pieces. The computer uses the Minimax algorithm with alpha-beta pruning to make decisions.
